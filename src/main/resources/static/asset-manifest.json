@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a89f10c.chunk.css",
+    "main.js": "/static/js/main.fa259afb.chunk.js",
+    "main.js.map": "/static/js/main.fa259afb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1944ea99.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1944ea99.js.map",
+    "static/css/2.00a338ba.chunk.css": "/static/css/2.00a338ba.chunk.css",
+    "static/js/2.0484ba46.chunk.js": "/static/js/2.0484ba46.chunk.js",
+    "static/js/2.0484ba46.chunk.js.map": "/static/js/2.0484ba46.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a94a18ec31b08020933b95114b029528.js": "/precache-manifest.a94a18ec31b08020933b95114b029528.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.00a338ba.chunk.css.map": "/static/css/2.00a338ba.chunk.css.map",
+    "static/css/main.1a89f10c.chunk.css.map": "/static/css/main.1a89f10c.chunk.css.map",
+    "static/js/2.0484ba46.chunk.js.LICENSE.txt": "/static/js/2.0484ba46.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/dana-fanum-regular.1147dbd1.woff",
+    "static/media/fail.png": "/static/media/fail.4413cf1f.png",
+    "static/media/headphones.png": "/static/media/headphones.ca436127.png",
+    "static/media/headphones_on.png": "/static/media/headphones_on.a1af0f79.png",
+    "static/media/home.png": "/static/media/home.0b94683d.png",
+    "static/media/home_on.png": "/static/media/home_on.8399886e.png",
+    "static/media/pers_no_img.jpg": "/static/media/pers_no_img.6d46956c.jpg",
+    "static/media/security.png": "/static/media/security.10a3d5bb.png",
+    "static/media/security_on.png": "/static/media/security_on.a139e8b5.png",
+    "static/media/success.png": "/static/media/success.bce2c9cf.png",
+    "static/media/sync_icon.png": "/static/media/sync_icon.120424af.png",
+    "static/media/user.png": "/static/media/user.3cd0e387.png",
+    "static/media/user_on.png": "/static/media/user_on.07aa1548.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1944ea99.js",
+    "static/css/2.00a338ba.chunk.css",
+    "static/js/2.0484ba46.chunk.js",
+    "static/css/main.1a89f10c.chunk.css",
+    "static/js/main.fa259afb.chunk.js"
+  ]
+}
