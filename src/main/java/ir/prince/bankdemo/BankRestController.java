@@ -99,8 +99,8 @@ public class BankRestController implements InitializingBean{
 //		phone= account2phone.get(transferReq.getSource().substring(0, 1));
 		
 		CibaAuthenticationRequest cibaReq = new CibaAuthenticationRequest(
-				"bankDemo",
-				"first-client-password",
+				"$clientID",
+				"$clientSecret",
 				"openid",
 				token, 
 				"3",
